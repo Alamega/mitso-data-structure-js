@@ -8,6 +8,7 @@ module.exports = class BloomFilter {
     // Bloom filter size directly affects the likelihood of false positives.
     // The bigger the size the lower the likelihood of false positives.
   }
+//Идексация 1
 
   /**
    * @param {string} item
